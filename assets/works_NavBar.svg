@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="1027.137" viewBox="0 0 83 1027.137">
+  <defs>
+    <filter id="Ellipse_10" x="0" y="0" width="83" height="83" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_59" data-name="Group 59" transform="translate(5583 -12009)">
+    <path id="Path_13" data-name="Path 13" d="M66,66" transform="translate(-5577.5 12009.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Group_58" data-name="Group 58" transform="translate(-5596 12002)">
+      <path id="Path_3" data-name="Path 3" d="M0,27.425V921" transform="translate(54.5 94.5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(46 113)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(46 1007)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+    </g>
+    <g id="Nav_work1" transform="translate(-5595 12293)">
+      <path id="Path_5" data-name="Path 5" d="M0,0H50V115H0Z" transform="translate(29 170)"/>
+      <text id="WORKS" transform="translate(62 275) rotate(-90)" fill="#fff" font-size="25" font-family="Bahnschrift" letter-spacing="0.1em"><tspan x="0" y="0">WORKS</tspan></text>
+    </g>
+    <g id="XY_logo" transform="translate(-4621 13945.716)">
+      <g id="Group_42" data-name="Group 42" transform="translate(-953 -1930.216)">
+        <g transform="matrix(1, 0, 0, 1, -9, -6.5)" filter="url(#Ellipse_10)">
+          <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="32.5" cy="32.5" r="32.5" transform="translate(9 6)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(-937.148 -1913.271)">
+        <text id="X" transform="translate(0.148 23.555)" fill="#ffc000" font-size="24" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">X</tspan></text>
+        <text id="Y" transform="translate(17.148 23.555)" font-size="24" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Y</tspan></text>
+      </g>
+    </g>
+    <g id="Nav_about2" transform="translate(-5562.5 12113.5)">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="42.5" height="143.143"/>
+      <text id="ABOUT" transform="translate(28.452 114.38) rotate(-90)" fill="#707070" font-size="25" font-family="Bahnschrift" letter-spacing="0.1em" opacity="0.5"><tspan x="0" y="0">ABOUT</tspan></text>
+    </g>
+    <g id="Nav_contact2" transform="translate(-5864.4 12735.018)">
+      <path id="Path_6" data-name="Path 6" d="M0,0H52.827V171.82H0Z" transform="translate(296.848 129.299)"/>
+      <text id="CONTACT" transform="translate(331.256 274.645) rotate(-90)" fill="#707070" font-size="25" font-family="Bahnschrift" letter-spacing="0.1em" opacity="0.5"><tspan x="0" y="0">CONTACT</tspan></text>
+    </g>
+  </g>
+</svg>

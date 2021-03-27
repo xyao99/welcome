@@ -9,3 +9,14 @@ body,html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.xynavbar {
+    height: 100%;
+    width: 10%;
+    padding: 20px 0px;
+}
+
+/* .typewrite {
+    color: black;
+    text-align: right;
+} */

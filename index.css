@@ -3,6 +3,7 @@
 body,html {
     height: 100%;
     scroll-behavior: smooth;
+    /* overflow: hidden; */
 }
 
 a:link {
@@ -24,6 +25,17 @@ section {
     font-weight: 900;
     font-size: 4vmax;
     text-decoration: underline #FFC000;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card {
+    width: 20vw;
+    height: auto;
 }
 
 #animdes {
@@ -52,3 +64,4 @@ section {
     height: 100vh;
     width: 100vw;
 }
+

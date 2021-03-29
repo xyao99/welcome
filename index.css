@@ -87,3 +87,18 @@ section {
 #twitter:hover {
     fill: #ffffff;
 }
+
+#LANDING_ABOUT:hover{
+    fill: black;
+    opacity: 100%;
+}
+
+#LANDING_WORKS:hover{
+    fill: black;
+    opacity: 100%;
+}
+
+#LANDING_CONTACT:hover{
+    fill: black;
+    opacity: 100%;
+}

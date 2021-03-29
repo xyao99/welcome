@@ -38,6 +38,11 @@ section {
     height: auto;
 }
 
+.card:hover{
+    transition: all .3s ease-in-out;
+    transform: scale(1.03);
+}
+
 .resumebtn {
     position: fixed;
     top: 0;

@@ -3,7 +3,7 @@
 body,html {
     height: 100%;
     scroll-behavior: smooth;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 a:link {
@@ -38,6 +38,12 @@ section {
     height: auto;
 }
 
+.resumebtn {
+    position: fixed;
+    top: 0;
+    right:0;
+}
+
 #animdes {
     text-align: right;
     padding-right: 60px;
@@ -65,3 +71,14 @@ section {
     width: 100vw;
 }
 
+#insta:hover {
+    fill: #ffffff;
+}
+
+#fb:hover {
+    fill: #ffffff;
+}
+
+#twitter:hover {
+    fill: #ffffff;
+}
